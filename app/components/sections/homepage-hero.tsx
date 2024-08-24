@@ -12,27 +12,27 @@ export const HomePageHero = () => {
         variant='secondary'
         size='small'
       >
-        Introducing Linear Insights
+        VizFlow Case Studies Coming Soon
         <ButtonHighlight className='-mr-2 ml-2'>→</ButtonHighlight>
       </Button>
       <div className='px-6 md:px-8'>
         <HeroTitle className='translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:200ms]'>
-          Linear is a better way <br className='hidden md:block' /> to build
-          products
+          VizFlow is a smarter way <br className='hidden md:block' /> to power your
+          field operations
         </HeroTitle>
         <HeroSubtitle className='translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:600ms]'>
-          Meet the new standard for modern software development.{' '}
+        Experience the future of field operations. Leverage Augmented Reality to create guided work instructions, {' '}
           <br className='hidden md:block' />
-          Streamline issues, sprints, and product roadmaps.
+          automate tasks, add intelligence to workflows, and supercharge visual guides and SOPs.
         </HeroSubtitle>
       </div>
       <Button
-        href='/'
+        href='https://forms.gle/Ya6r6iTAcAd66cPQ7'
         variant='primary'
         size='large'
         className='translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:800ms]'
       >
-        Get Started <ChevronRight className='ml-2' />
+        Contact us for a free 30 min consultation call <ChevronRight className='ml-2' />
       </Button>
       <HeroImage />
     </Hero>

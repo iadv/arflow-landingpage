@@ -16,9 +16,8 @@ export default function Home() {
         <HomePageHero />
       </Container>
 
-    {/* Comment Section 
       <Container className='mt-[12.8rem] text-center md:mt-[25.6rem]'>
-        
+        <Clients />
       </Container>
       <StarComponent />
       <UnlikeAnyTool />
@@ -30,7 +29,6 @@ export default function Home() {
       <Container>
         <DownloadApp />
       </Container>
-    */}
     </>
   );
 }

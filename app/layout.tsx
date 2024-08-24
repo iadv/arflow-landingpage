@@ -7,9 +7,9 @@ import './globals.css';
 const open_sans = Open_Sans({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Linear LandingPage',
+  title: 'VizFlow - Superintelligence to your workflows',
   description:
-    "Linear's landing page recreated by https://twitter.com/rogue_kitten404",
+    "VizFlow's landing page created by Nithin and Alex",
 };
 
 export default function RootLayout({

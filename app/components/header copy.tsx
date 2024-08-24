@@ -8,9 +8,14 @@ import { Container } from './container';
 import { Hamburger } from './icons/hamburger';
 import { Logo } from './icons/logo';
 
-
 const navLinks = [
-  { title: ' ', href: '/' },
+  { title: 'Features', href: '/' },
+  { title: 'Methods', href: '/' },
+  { title: 'Customers', href: '/', hidden: true },
+  { title: 'ChangeLog', href: '/', hidden: true },
+  { title: 'Intergations', href: '/', hidden: true },
+  { title: 'Pricing', href: '/' },
+  { title: 'Company', href: '/' },
 ] as const;
 
 export const Header = () => {
