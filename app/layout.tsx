@@ -7,9 +7,9 @@ import './globals.css';
 const open_sans = Open_Sans({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'VizFlow - Superintelligence to your workflows',
+  title: 'Instructa - Superintelligence to your workflows',
   description:
-    "VizFlow's landing page created by Nithin and Alex",
+    "Instructa's landing page created by Nithin and Alex",
 };
 
 export default function RootLayout({

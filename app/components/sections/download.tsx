@@ -8,7 +8,7 @@ export const DownloadApp = () => {
       <div className='image-container'>
         <Image
           src='/image/appIcon.webp'
-          alt='VizFlow desktop app dowload icon'
+          alt='Instructa desktop app dowload icon'
           fill
           className='image max-w-[12.8rem]'
         />

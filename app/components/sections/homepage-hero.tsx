@@ -12,12 +12,12 @@ export const HomePageHero = () => {
         variant='secondary'
         size='small'
       >
-        VizFlow Case Studies Coming Soon
+        Instructa Case Studies Coming Soon
         <ButtonHighlight className='-mr-2 ml-2'>→</ButtonHighlight>
       </Button>
       <div className='px-6 md:px-8'>
         <HeroTitle className='translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:200ms]'>
-          VizFlow is a smarter way <br className='hidden md:block' /> to power your
+          Instructa is a smarter way <br className='hidden md:block' /> to power your
           field operations
         </HeroTitle>
         <HeroSubtitle className='translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:600ms]'>
