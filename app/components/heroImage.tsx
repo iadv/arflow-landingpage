@@ -90,11 +90,11 @@ export const HeroImage = () => {
             inView && '[&_path]:animate-sketch-lines'
           )}
         >
-          <path pathLength='1' d='M1500 72L220 72'></path>
-          <path pathLength='1' d='M1500 128L220 128'></path>
-          <path pathLength='1' d='M1500 189L220 189'></path>
-          <path pathLength='1' d='M220 777L220 1'></path>
-          <path pathLength='1' d='M538 777L538 128'></path>
+          <path pathLength='1' d='M1500 72L220 72' stroke-width='2'></path>
+          <path pathLength='1' d='M1500 128L220 128' stroke-width='2'></path>
+          <path pathLength='1' d='M1500 189L220 189' stroke-width='2'></path>
+          <path pathLength='1' d='M220 777L220 1' stroke-width='2'></path>
+          <path pathLength='1' d='M538 777L538 128' stroke-width='2'></path>
         </svg>
         <div className='image-container'>
           <Image
