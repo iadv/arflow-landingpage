@@ -98,7 +98,7 @@ export const HeroImage = () => {
         </svg>
         <div className='image-container'>
           <Image
-            src='/image/hero3.webp'
+            src='/image/hero4.webp'
             alt='Hero Image'
             fill
             className={classNames(
